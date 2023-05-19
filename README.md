@@ -1,2 +1,2 @@
-# New-App-In-Haxeflixel
+# New-App-With-Haxeflixel
 A just new app
